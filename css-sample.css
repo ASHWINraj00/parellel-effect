@@ -1,0 +1,108 @@
+h2 {    
+    color: black;
+    background-color:red;
+    text-align: center;
+    font-size: 1.5em;
+    margin: 3px; 
+    padding: 3px; 
+}
+.div1 {
+       background-image: url('https://i1.sndcdn.com/artworks-000389563344-p77fnm-t500x500.jpg');
+       height: 120vh;  
+       background-repeat: no-repeat; 
+       background-position:center;
+       background-size: cover;
+       background-attachment: fixed;  
+  } 
+#bg1 {
+    color:black;
+    
+}
+.div2 {
+    background-image: url('https://i1.sndcdn.com/artworks-000389563344-p77fnm-t500x500.jpg');
+    height: 120vh;  
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed; 
+} 
+#bg2 {
+ color:black;
+}
+.div3 {
+    background-image: url('https://i1.sndcdn.com/artworks-000389563344-p77fnm-t500x500.jpg');
+    height: 120vh;  
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed; 
+} 
+#bg3 {
+ color:black;
+}
+.div4 {
+    background-image: url('https://i1.sndcdn.com/artworks-000389563344-p77fnm-t500x500.jpg');
+    height: 120vh;  
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed; 
+} 
+#bg4 {
+ color:black;
+}
+.div5 {
+    background-image: url('https://i1.sndcdn.com/artworks-000389563344-p77fnm-t500x500.jpg');
+    height: 120vh;  
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed; 
+} 
+#bg5 {
+ color:black;
+}
+.div6 {
+    background-image: url('https://i1.sndcdn.com/artworks-000389563344-p77fnm-t500x500.jpg');
+    height: 120vh;  
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed; 
+} 
+#bg6 {
+ color:black;
+}
+.div7 {
+    background-image: url('https://i1.sndcdn.com/artworks-000389563344-p77fnm-t500x500.jpg');
+    height: 120vh;  
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed; 
+} 
+#bg7 {
+ color:black;
+}
+.div8 {
+    background-image: url('https://i1.sndcdn.com/artworks-000389563344-p77fnm-t500x500.jpg');
+    height: 120vh;  
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed; 
+} 
+#bg8 {
+ color:black;
+}
+.div9 {
+    background-image: url('https://i1.sndcdn.com/artworks-000389563344-p77fnm-t500x500.jpg');
+    height: 120vh;  
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed; 
+} 
+#bg9 {
+ color:black;
+}    
